@@ -1,0 +1,8 @@
+"1","test aerobic 1","test desc 1","aerobic","run","both","2","30","650","Image","/Sadna/images/activity-pilates-wizard.jpg"
+"2","test aerobic 2","test desc 2","aerobic","ski","both","1","40","650","Image","/Sadna/images/SKI.png"
+"3","test aerobic 3","test desc 3","aerobic","spin","bottom","3","50","650","Image","/Sadna/images/spining.jpg"
+"4","test anaerobic 1","test desc 1","anaerobic","lift","both","2","30","400","Image","/Sadna/images/lifting_both.jpg"
+"5","test anaerobic 2","test desc 2","anaerobic","lift","upper","1","45","350","Image","/Sadna/images/lifting_upper.jpg"
+"6","test anaerobic 3","test desc 3","anaerobic","lift","bottom","3","50","500","Image","/Sadna/images/lifting_botoom.jpg"
+"7","test aerobic 4","test desc 4","aerobic","walk","both","3","55","500","Image","/Sadna/images/walk.jpg"
+"8","test aerobic 5","test desc 5","aerobic","walk","both","2","45","450","Image","/Sadna/images/walk.jpg"

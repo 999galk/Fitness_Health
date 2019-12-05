@@ -1,0 +1,8 @@
+"1","gainWeight","20","80","both","pos"
+"2","dropWeight","70","30","both","neg"
+"3","fatPerc","70","30","both","neg"
+"4","toning","60","40","both","neg"
+"5","endure","80","20","both","eq"
+"6","shapeUpper","40","60","upper","neg"
+"7","shapeLower","40","60","lower","neg"
+"8","flex","30","70","both","eq"
