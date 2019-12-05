@@ -1,0 +1,35 @@
+body, html {
+    margin:0px;
+    width: 100%;
+    height: 100%;
+   box-sizing: border-box;  
+  
+    
+}
+#background{
+    background-image: url("/images/ativity-wizard-running-.jpg"); /* The image used */
+
+  /*  background-position: center; /* Center the image */
+    /*background-repeat: no-repeat; /* Do not repeat the image */
+    /*background-size: cover;*/
+}
+.myModal{
+    font-family: "Poppins-Regular";
+    color: pink;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 10%;
+      background-color:grey;
+     
+
+}
+.insideModel{
+    margin-left: 0%;
+  margin-right: 40%;
+  
+}
+.logo-picture{
+    float:left;
+    /*width:20%;
+    margin-right:30px;*/
+}
